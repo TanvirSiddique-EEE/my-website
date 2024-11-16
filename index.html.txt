@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal website showcasing introduction and academic journey">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#academics">Academic Journey</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Welcome to My Website</h1>
+        <p>Hi, I'm [TANVIR SIDDIQUE]. I'm a [Student]. Welcome to my personal website where I share a bit about myself and my academic journey.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm interested about [Theoretical Physics, Modern Physics, Renewable Energy System, Power System]. I enjoy working on [like minded people]. Here's a little more about my journey and what drives me:</p>
+        <ul>
+            <li>Interest #1</li>
+            <li>Interest #2</li>
+            <li>Interest #3</li>
+        </ul>
+    </section>
+
+    <section id="academics">
+        <h2>Academic Journey</h2>
+        <h3>Education</h3>
+        <ul>
+            <li><strong>Degree #1</strong> - Islamic University of Technology, 2026</li>
+            <li><strong>Degree #2</strong> - Islamic University of Technology, 2026</li>
+            <li><strong>Certification/Training</strong> - Institution, Year</li>
+        </ul>
+        
+            </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you'd like to get in touch, feel free to email me at <a href="tanvirsiddique819@gmail.com">your.email@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 [Tanvir Siddique]. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
